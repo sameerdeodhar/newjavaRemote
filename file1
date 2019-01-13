@@ -1,5 +1,128 @@
 bmbay stock exchange:t remote set-url origin git@github.com:sameerdeodhar/newjavaRemote.gitt 
+mumbai stock exchang:e
 Dow Jones
 NASDAQ
 NSE
-BSE
+BS -la
+   62  cd .ssh
+   63  cd .ssh
+   64  ls -l
+   65  ls -la
+   66  cat id_rsa.pub
+   67  cd ..
+   68  ls -l
+   69  cd CoRSS
+   70  cd CoRS
+   71  ls -l
+   72  cd newjavaRemote/
+   73  git remote set-url origin git@github.com:sameerdeodhar/newjavaRemote.git
+   74  git status
+   75  git remote -v
+   76  ls -ls
+   77  vi file1
+   78  git status
+   79  git commit -am 'added Bombay Stck Exchange'
+   80  git push origin master
+ -la
+   62  cd .ssh
+   63  cd .ssh
+   64  ls -l
+   65  ls -la
+   66  cat id_rsa.pub
+   67  cd ..
+   68  ls -l
+   69  cd CoRSS
+   70  cd CoRS
+   71  ls -l
+   72  cd newjavaRemote/
+   73  git remote set-url origin git@github.com:sameerdeodhar/newjavaRemote.git
+   74  git status
+   75  git remote -v
+   76  ls -ls
+   77  vi file1
+   78  git status
+   79  git commit -am 'added Bombay Stck Exchange'
+   80  git push origin master
+sqw
+ -la
+   62  cd .ssh
+   63  cd .ssh
+   64  ls -l
+   65  ls -la
+   66  cat id_rsa.pub
+   67  cd ..
+   68  ls -l
+   69  cd CoRSS
+   70  cd CoRS
+   71  ls -l
+   72  cd newjavaRemote/
+   73  git remote set-url origin git@github.com:sameerdeodhar/newjavaRemote.git
+   74  git status
+   75  git remote -v
+   76  ls -ls
+   77  vi file1
+   78  git status
+   79  git commit -am 'added Bombay Stck Exchange'
+   80  git push origin master
+wq -la
+   62  cd .ssh
+   63  cd .ssh
+   64  ls -l
+   65  ls -la
+   66  cat id_rsa.pub
+   67  cd ..
+   68  ls -l
+   69  cd CoRSS
+   70  cd CoRS
+   71  ls -l
+   72  cd newjavaRemote/
+   73  git remote set-url origin git@github.com:sameerdeodhar/newjavaRemote.git
+   74  git status
+   75  git remote -v
+   76  ls -ls
+   77  vi file1
+   78  git status
+   79  git commit -am 'added Bombay Stck Exchange'
+   80  git push origin master
+wq
+ -la
+   62  cd .ssh
+   63  cd .ssh
+   64  ls -l
+   65  ls -la
+   66  cat id_rsa.pub
+   67  cd ..
+   68  ls -l
+   69  cd CoRSS
+   70  cd CoRS
+   71  ls -l
+   72  cd newjavaRemote/
+   73  git remote set-url origin git@github.com:sameerdeodhar/newjavaRemote.git
+   74  git status
+   75  git remote -v
+   76  ls -ls
+   77  vi file1
+   78  git status
+   79  git commit -am 'added Bombay Stck Exchange'
+   80  git push origin master
+wq -la
+   62  cd .ssh
+   63  cd .ssh
+   64  ls -l
+   65  ls -la
+   66  cat id_rsa.pub
+   67  cd ..
+   68  ls -l
+   69  cd CoRSS
+   70  cd CoRS
+   71  ls -l
+   72  cd newjavaRemote/
+   73  git remote set-url origin git@github.com:sameerdeodhar/newjavaRemote.git
+   74  git status
+   75  git remote -v
+   76  ls -ls
+   77  vi file1
+   78  git status
+   79  git commit -am 'added Bombay Stck Exchange'
+   80  git push origin master
+wq
